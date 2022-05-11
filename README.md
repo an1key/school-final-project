@@ -4,5 +4,4 @@ Presentation is on https://www.canva.com/design/DAE_ESmCG-w/Ldl-cAsUGxch2W94C382
 https://an1key.codead.dev:55557/api/photos
 ==========D&D==========
 https://docs.google.com/spreadsheets/d/1gASXPzBFvqNXhYYGuDbxTNld4IcKGa8mIov2yj_0gYM/edit?usp=drivesdk
-==========Ad==========
-https://docs.google.com/spreadsheets/d/1JbNS1L50Y9Dz2Vz-50X2f0OIssXBG1-50rRF65DXZqw/edit?usp=drivesdk
+=
